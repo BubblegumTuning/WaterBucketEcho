@@ -12,4 +12,6 @@ rocketscream Low-Power library is needed for low power sleep in this scetch.
 * 5mm LED
 * HC-SR04 Ultrasonic Sensor
 
+You can see the device in action here: https://youtu.be/A88B4KW732k
+
 ![Schematic](/watermonitor_bb.png)
